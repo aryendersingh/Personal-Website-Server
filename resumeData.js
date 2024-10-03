@@ -10,9 +10,9 @@ const resumeData = {
     },
     footer: {
       socialLinks: [
-        { name: "GitHub", url: "https://github.com/yourusername" },
-        { name: "LinkedIn", url: "https://linkedin.com/in/yourusername" },
-        { name: "Twitter", url: "https://twitter.com/yourusername" },
+        { name: "GitHub", url: "https://github.com/aryendersingh" },
+        { name: "LinkedIn", url: "https://www.linkedin.com/in/aryender-singh-169aa5137/" },
+        { name: "Twitter", url: "https://twitter.com" },
       ],
       quickLinks: [
         { name: "About", link: "#about" },
@@ -31,28 +31,83 @@ const resumeData = {
     },
     experience: [
       {
-          title: "Senior Web Developer",
-          company: "Tech Innovations Inc.",
+          title: "AI Software Engineer (Member of Technical Staff)",
+          company: "Salesforce",
           logo: "https://via.placeholder.com/60",
-          date: "January 2020 - Present",
+          date: "August 2024 - Present",
           responsibilities: [
-            "Lead a team of 5 developers in creating responsive web applications",
-            "Implemented CI/CD pipelines, improving deployment efficiency by 40%",
-            "Architected and developed a scalable e-commerce platform serving 100k+ users",
+            "",
+            "",
+            "",
           ],
         },
         {
-          title: "Full Stack Developer",
-          company: "Digital Solutions LLC",
+          title: "Frontend Software Engineer (Associate Member of Technical Staff)",
+          company: "Salesforce",
           logo: "https://via.placeholder.com/60",
-          date: "June 2017 - December 2019",
+          date: "June 2023 - August 2024",
           responsibilities: [
-            "Developed and maintained multiple client websites using React and Node.js",
-            "Optimized database queries, reducing load times by 30%",
-            "Collaborated with UX designers to implement intuitive user interfaces",
+            "",
+            "",
+            "",
           ],
         },
-      // Add more experience items
+        {
+          title: "Software Engineering Intern",
+          company: "Meta (prev Facebook)",
+          logo: "https://via.placeholder.com/60",
+          date: "August 2022 - November 2022",
+          responsibilities: [
+            "",
+            "",
+            "",
+          ],
+        },
+        {
+          title: "Software Engineering Intern",
+          company: "Salesforce",
+          logo: "https://via.placeholder.com/60",
+          date: "May 2022 - August 2022",
+          responsibilities: [
+            "",
+            "",
+            "",
+          ],
+        },
+        {
+          title: "Software Engineering Intern",
+          company: "NCR Corporation",
+          logo: "https://via.placeholder.com/60",
+          date: "May 2021 - August 2021",
+          responsibilities: [
+            "",
+            "",
+            "",
+          ],
+        },
+        {
+          title: "Software Engineering Intern",
+          company: "NCR Corporation",
+          logo: "https://via.placeholder.com/60",
+          date: "June 2020 - August 2020",
+          responsibilities: [
+            "",
+            "",
+            "",
+          ],
+        },
+        {
+          title: "Software Engineering Intern",
+          company: "Intel",
+          logo: "https://via.placeholder.com/60",
+          date: "June 2019 - August 2019",
+          responsibilities: [
+            "",
+            "",
+            "",
+          ],
+        }
+      
     ],
     education: [
       {
@@ -60,13 +115,13 @@ const resumeData = {
           institution: "Georgia Institute of Technology",
           logo: "https://via.placeholder.com/60",
           year: "2018-2023",
-          description: "Specialized in Artificial Intelligence and Machine Learning. Thesis on 'Deep Learning Applications in Natural Language Processing'.",
+          description: "Specialized in Artificial Intelligence and Machine Learning.",
         }
       // Add more education items
     ],
     skills: [
       "React", "JavaScript", "TypeScript", "Node.js", 
-      "GraphQL", "HTML5", "CSS3", "Sass", 
+      "GraphQL", "HTML", "CSS", 
       "Git", "Webpack", "Jest", "AWS"
     ]
 };
